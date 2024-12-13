@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    margin: 0;
+    height: 100vh;
+    background-color:rgb(227, 188, 233) ;
+  }
+#e1{ 
+    border-color: black; 
+    
+    border: 10px solid; 
+    width: 240px; 
+    height: 858px; 
+    float: left; 
+} 
+
+#e2{ 
+    border-color: rgb(255, 8, 0); 
+ 
+    border: 10px dashed; 
+    width: 1200px; 
+    height: 239px;
+    float: left; 
+} 
+
+#e3{ 
+    border-color: rgb(255, 8, 0); 
+  
+    border: 10px dashed; 
+    width: 1200px; 
+    height: 300px;
+    float: left; 
+} 
+
+#e4{ 
+    border-color: rgb(255, 8, 0); 
+   
+    border: 10px dashed; 
+    width: 1200px;
+    height: 281px; 
+    float: left; 
+} 
+
+#k1{ 
+    color: rgb(4, 107, 4); 
+    font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} 
+
+#f1{ 
+    float: left; 
+    border: 5px dashed; 
+    border-color: #6200a3; 
+    margin-left: 10px; 
+    margin-top: 20px; 
+} 
+
+#f2{ 
+    float: left; 
+    border: 5px dashed; 
+    border-color: #6200a3; 
+    margin-left: 10px; 
+    margin-top: 20px; 
+} 
+
+#k2{ 
+    color: rgb(4, 107, 4); 
+    margin-left: 10px; 
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+} 
+
+#f3{ 
+    float: left; 
+    border: 5px dashed; 
+    border-color: #6200a3; 
+    margin-left: 10px; 
+    margin-top: -55px; 
+} 
+
+#f4{ 
+    float: left; 
+    border: 5px dashed; 
+    border-color: #6200a3; 
+    margin-left: 10px; 
+    margin-top: -55px; 
+} 
+
+#k3{ 
+    color: rgb(4, 107, 4); 
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+} 
+
+#e5{ 
+    border-color: rgb(255, 8, 0); 
+    
+    border: 10px solid; 
+    width: 1456px; 
+    height: 240px; 
+    float: left; 
+} 
+
+#e6{ 
+    border-color: rgb(255, 8, 0); 
+   
+    border: 10px dashed; 
+    width: 720px;
+    height: 185px;
+    float: left; 
+}
+
+
+
+#e7{ 
+    border-color: rgb(255, 8, 0); 
+
+    border: 10px dashed; 
+    width: 720px;
+    height: 185px;
+    float: left; 
+} 
+
+
+
+
+#k4{ 
+    color: rgb(6, 46, 0); 
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+} 
+
+
+
+#v1{ 
+    border-color: rgb(255, 8, 0); 
+    border: 10px dashed; 
+} 
+
+
+
+
+
+
+
+#e9{ 
+    border-color: rgb(255, 8, 0); 
+ 
+    border: 10px dashed; 
+    width: 99% ;
+    height: 280px;
+    float: left; 
+}
+
+#e10{ 
+    border-color: rgb(255, 8, 0); 
+ 
+    border: 10px dashed; 
+    width: 99% ;
+    height: 280px;
+    float: left; 
+}
+
+#e11{ 
+    border-color: rgb(255, 8, 0); 
+ 
+    border: 10px dashed; 
+    width: 99% ;
+    height: 280px;
+    float: left; 
+}
+
+#e12{ 
+    border-color: rgb(255, 8, 0); 
+ 
+    border: 10px dashed; 
+    width: 99% ;
+    height: 280px;
+    float: left; 
+}
+#e13{ 
+    border-color: rgb(255, 8, 0); 
+ 
+    border: 10px dashed; 
+    width: 99% ;
+    height: 340px;
+    float: left; 
+}
+
+#e14{ 
+    border-color: rgb(255, 8, 0); 
+ 
+    border: 10px dashed; 
+    width: 49% ;
+    height: 340px;
+    float: right; 
+}
+
+#e15{ 
+    border-color: rgb(255, 8, 0); 
+ 
+    border: 10px dashed; 
+    width: 48% ;
+    height: 540px;
+    float: left; 
+}
+
+#e6{ 
+    border-color: rgb(255, 8, 0); 
+   
+    border: 10px dashed; 
+    width: 48%;
+    height: 185px;
+    float: left; 
+}
+#e6{ 
+    border-color: rgb(255, 8, 0); 
+   
+    border: 10px dashed; 
+    width: 48%;
+    height: 185px;
+    float: right; 
+}
+
+
+
+
+
+
+
+
